@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    font-family: verdana, sans-serif;
+    color: white;
+}
+.body-index {
+    background-image: url("../imagenes/mi-background6.png");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+.div-main {
+    max-width: 700px;
+    
+}
+h2 {
+    color: yellow;
+}
+p {
+    color: lightgray;
+}
